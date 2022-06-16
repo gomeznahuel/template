@@ -2,8 +2,6 @@
 
 Template created with Next.js, TypeScript, Styled Components and React Icons.
 
-This template is based on
-
 ## Technologies I used
 
 - [Next JS](https://nextjs.org) -> version: 12.1.6
