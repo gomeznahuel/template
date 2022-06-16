@@ -2,7 +2,7 @@
 
 Template created with Next.js, TypeScript, Styled Components and React Icons.
 
-## Technologies I used
+## Technologies I used 
 
 - [Next JS](https://nextjs.org) -> version: 12.1.6
 - [TypeScript](https://www.typescriptlang.org) -> version: 4.7.3
